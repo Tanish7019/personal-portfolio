@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Tanish jain 
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Tanish jain 
+Tanish jain 
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+sanghvitanish123456@gmail.com
 
 Phone
-+1 (213) 352-2795
+7019762659
 
 Birthday
-June 23, 1982
+September 09,2002
 
 Location
-Sacramento, California, USA
+Bangalore, Karnataka, India
 
 # navbar
 
@@ -31,6 +31,7 @@ Contact
 # about
 
 About me
+
 
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
